@@ -1,0 +1,6 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "yaml.schemas": {
+    "https://json.schemastore.org/cirrus.json": "file:///d%3A/Semester%208/IDEAMART/pubspec.yaml"
+  }
+}
